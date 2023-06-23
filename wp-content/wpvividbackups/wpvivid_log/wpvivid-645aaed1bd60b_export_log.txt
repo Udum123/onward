@@ -1,0 +1,27 @@
+Log created: 2023-05-09 20:36:33
+Type: export
+[2023-05-09 20:36:37][notice]Start export posts.
+[2023-05-09 20:36:37][notice]server info fcgi:Off max execution time: 300 wp version:6.2 php version:8.2.0 db version:10.4.27 php ini:safe_mode: memory_limit:512M memory_get_usage:58.78 MB memory_get_peak_usage:59.42 MB extensions:PDO enabled curl enabled zlib enabled   is_multisite:0
+[2023-05-09 20:36:38][notice]attach_meta size not found id:75
+[2023-05-09 20:36:38][notice]attach_meta size not found id:117
+[2023-05-09 20:36:38][notice]attach_meta size not found id:118
+[2023-05-09 20:36:38][notice]attach_meta size not found id:119
+[2023-05-09 20:36:38][notice]attach_meta size not found id:231
+[2023-05-09 20:36:38][notice]attach_meta size not found id:232
+[2023-05-09 20:36:38][notice]attach_meta size not found id:233
+[2023-05-09 20:36:38][notice]attach_meta size not found id:367
+[2023-05-09 20:36:38][notice]attach_meta size not found id:253
+[2023-05-09 20:36:38][notice]attach_meta size not found id:70
+[2023-05-09 20:36:38][notice]attach_meta size not found id:190
+[2023-05-09 20:36:38][notice]attach_meta size not found id:191
+[2023-05-09 20:36:38][notice]attach_meta size not found id:192
+[2023-05-09 20:36:38][notice]attach_meta size not found id:195
+[2023-05-09 20:36:38][notice]attach_meta size not found id:206
+[2023-05-09 20:36:38][notice]attach_meta size not found id:209
+[2023-05-09 20:36:38][notice]attach_meta size not found id:213
+[2023-05-09 20:36:38][notice]attach_meta size not found id:214
+[2023-05-09 20:36:38][notice]Prepare to export post wpvivid-645aaed1bd60b_2023-05-09-20-36
+[2023-05-09 20:36:41][notice]Finished to export post wpvivid-645aaed1bd60b_2023-05-09-20-36
+[2023-05-09 20:36:41][notice]Prepare to zip file wpvivid-645aaed1bd60b_2023-05-09-20-36
+[2023-05-09 20:36:44][notice]Finished to zip file wpvivid-645aaed1bd60b_2023-05-09-20-36
+[2023-05-09 20:36:44][notice]Finished to export post
